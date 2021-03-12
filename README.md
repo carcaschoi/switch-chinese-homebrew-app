@@ -1,7 +1,7 @@
 # switch-chinese-homebrew-app
 switch汉化的自制軟件
-* Edizon
-* Edizon-se
+* Edizon v4.0
+* Edizon-se v3.8.10 beta3
 * tesla menu
 * ovl-sysmodule
 * sysclk
