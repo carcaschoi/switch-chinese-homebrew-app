@@ -2,7 +2,7 @@
 switch汉化的自制軟件
 * Edizon v4.0
 * Edizon-se v3.8.10 beta3
-* tesla menu
+* nx-ovlloader v1.0.6
 * ovl-sysmodule
 * sysclk
 * emuiibo v0.6.2
