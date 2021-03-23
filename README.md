@@ -7,6 +7,7 @@ switch汉化的自制軟件
 * sysclk
 * emuiibo v0.6.2
 * NXThemesInstaller v2.6
+* goldleaf v0.9.0
 * awoo installer config
 * tinfoil config
 # 用法
